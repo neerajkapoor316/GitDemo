@@ -9,6 +9,8 @@ public class Add {
 			
 		 c=a+b;
 			System.out.println("Addition of two no's"+c);
+			System.out.println("updated of two no's"+c);
+
 	}
 	void sub()
 	{
